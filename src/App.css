@@ -1,0 +1,76 @@
+.App-Container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+
+
+.sidebar{
+  min-height: 631px;
+  width:100px ;
+}
+
+.nav-link{
+    background-color: antiquewhite;
+}
+
+.card-body{
+  width:400px;
+  /* height:350px; */
+  max-height:fit-content;
+  background-color: aliceblue;
+  padding-bottom: 0px;
+  
+}
+
+.card2{
+  width:fit-content;
+  /* margin: 20px 50px; */
+  margin:auto;
+  margin-top: 40px;
+  
+}
+
+.badge{
+  margin: 0 3px;
+}
+
+.btn{
+  margin: 0 10px;
+}
+
+
+.alert{
+  margin-top: 5px;
+  display: flex;
+
+}
+.para{
+  margin: 0px 10px;
+}
+
+.createPost{
+  /* width: 400px; */
+  min-width: 300px;
+  max-width: 500px;
+  margin: 60px;
+  border-style: groove;
+  padding: 15px;
+}
+
+
+.PostContainer{
+  
+  min-height:300px ;
+}
+.EmptyMessage{
+  /* margin-left: 35%;
+  min-height: 430px; */
+  padding-top:50px ;
+}
+
+.spinner-border{
+  margin:14% 0%;
+}
